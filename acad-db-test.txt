@@ -180,7 +180,6 @@ CS15B001 CS235 2 2019 B
 
 preRequisite = {
 preReqCourse courseId
-852 133
 408 158
 603 169
 780 209
@@ -237,7 +236,6 @@ preReqCourse courseId
 340 628
 139 629
 681 631
-864 634
 792 647
 559 656
 659 656
